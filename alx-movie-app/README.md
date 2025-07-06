@@ -1,1 +1,1 @@
-the difficult project
+ProWeb Pulse: Mastering PWA Fundamentals
